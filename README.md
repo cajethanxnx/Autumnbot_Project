@@ -1,2 +1,5 @@
 # Autumnbot_Project
-This repository focuses on the application of the YOLOv8 object detection model for a computer vision task—specifically, leaf detection.
+### Project Overview
+The Autumnbot Leaf Detection project aims to automate the process of detecting fallen autumn leaves using YOLOv8, a state-of-the-art object detection algorithm. This project includes data preprocessing, model training, validation, and performance evaluation, with outputs aimed at integrating into the Autumnbot robotics platform.
+
+
